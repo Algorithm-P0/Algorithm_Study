@@ -1,10 +1,11 @@
 //
 //  main.cpp
-//  mergeSort
+//  boj2751
 //
-//  Created by 박세란 on 2020/05/12.
+//  Created by 박세란 on 2020/05/13.
 //  Copyright © 2020 박세란. All rights reserved.
 //
+
 #include <vector>
 #include <iostream>
 using namespace std;
@@ -91,3 +92,4 @@ int main() {
 
     return 0;
 }
+
